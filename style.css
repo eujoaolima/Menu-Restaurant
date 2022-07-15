@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Libre+Franklin:wght@100&family=Nunito:wght@300&display=swap');
+
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    border-width: 2px;
+    border-radius: 22px;
+    border-color: #fff;
+    border-bottom: -2em;
+}
+
+body {
+    background-color: #d3222a;
+    position: absolute;
+    left: 480px;
+    font-family: 'Nunito', sans-serif;
+    display: block;
+}
+
+.campo {
+    color: #fff;
+    position: relative;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 5px;
+    bottom: -10px;
+    
+}
+
+#titulo {
+    color: #ffc82d;
+    position: relative;
+    font-size: 1.8em;
+}
+
+#titulo1 {
+    position: relative;
+    color: #fff;
+    left: 100px;
+    top: 10px;
+    justify-content: center;
+    
+}
+
+#paragrafo {
+    color: #fff;
+    position: relative;
+    font-size: 1em;
+    left: 370px;
+    top: -22px;
+}
+
+#paragrafo1 {
+    color:#fff;
+    position: relative;
+    font-size: 1em;
+    top: -10px;
+    right: -2px;
+}
+
+#paragrafo2 {
+    color: #fff;
+    position: relative;
+    left: 70px;
+    bottom: 10px;
+}
+
+#paragrafo3 {
+    color: #fff;
+    position: relative;
+    bottom: 10px;
+    left: 66px;
+}
+
+#rodape {
+    position: relative;
+    font-size: 1em;
+    color: #fff;
+    margin-left: 250px;
+}
+
+.fieldset {
+    border: 0;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+#principal {
+    color: #fff;
+    position: absolute;
+    border-style: solid;
+    border-color: #ffc82d;
+    border-radius: 10px;
+    left: 65px;
+    top: 20px;
+    background-color: #ffc82d;
+    
+}
+
+.campo1 {
+    background-color:#ffc82d;
+    border-radius: 10px;
+    position: relative;
+    top: 55px;
+    border-right: 10px;
+}
+
+#linebreak {
+    position: relative;
+    top: -100px;
+}
